@@ -1,10 +1,10 @@
-# Installing XXXX
+# Installing and setting up Elasticsearch, Logstash, Kibana, and Filebeat on Amazon Linux 2023
 
-This guide will help you install and set up XXXX
+This guide will help you install and set up Elasticsearch, Logstash, Kibana, and Filebeat on Amazon Linux 2023
 
 ## Requirements
 
-XXXX
+Amazon Web Services (AWS), Amazon Linux 2023
 
 ## Initial setup
 
