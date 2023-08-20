@@ -51,9 +51,7 @@ xpack.security.transport.ssl.enabled: false
 Enable and start Elasticsearch
 
 ```console
-$ sudo systemctl enable --now elasticsearch 
-$ curl localhost:9200 
-$ curl -X GET "localhost:9200"
+$ sudo systemctl enable --now elasticsearch
 ```
 
 ### Step 5: Install Logstash
